@@ -12,10 +12,10 @@ nav div {
   display: flex;
   gap: 20px;
   width: 40%;
-
+  height: 100%;
   margin: auto;
   justify-content: center;
-  align-content: center;
+  align-items: center;
 }
 nav a {
   width: 100px;
