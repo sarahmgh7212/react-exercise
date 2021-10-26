@@ -1,5 +1,5 @@
 import "./App.css";
-import EmojiContainer from "./components/EmojiContainer";
+import EmojiContainer from "./components/EmojiContainer/EmojiContainer";
 
 const App = () => {
   return (

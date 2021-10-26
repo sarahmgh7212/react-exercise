@@ -5,7 +5,7 @@ const Input = (props) => {
       <input
         type="text"
         placeholder={props.text}
-        onChange={props.handleQuery}
+        onChange={props.handleChange}
       />
     </>
   );

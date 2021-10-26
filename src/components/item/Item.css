@@ -7,11 +7,11 @@ html {
   color: #737373;
 }
 .list-boxes {
-  /* display: flex;
+  display: flex;
   flex-direction: column;
-  gap: 30px;
-  justify-content: center; */
-  /* background-color: aquamarine; */
+  justify-content: center;
+  align-items: center;
+  height: 90px;
 }
 
 .box {
@@ -24,9 +24,6 @@ html {
   align-items: center;
   height: 70px;
   box-shadow: 4px 5px 4px 4px#E6E6E6;
-  margin-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
 }
 .item {
   padding-left: 20px;
