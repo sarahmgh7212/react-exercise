@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  color: #737373;
+}
+.list-boxes {
+  /* display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center; */
+  /* background-color: aquamarine; */
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  gap: 10px;
+  align-items: center;
+  height: 70px;
+  box-shadow: 4px 5px 4px 4px#E6E6E6;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.item {
+  padding-left: 20px;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input:focus {
+  outline: none;
+}
+input {
+  display: block;
+  margin: 20px auto;
+  width: 30%;
+  height: 40px;
+  padding-left: 8px;
+  border: 2px solid #cccccc;
+  border-radius: 8px;
+  color: #999999;
+}
+::placeholder {
+  color: #cccccc;
+}
